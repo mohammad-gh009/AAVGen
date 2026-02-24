@@ -116,7 +116,7 @@ partial-json-parser==0.2.1.1.post5
 patsy==1.0.1
 peft==0.15.1
 pfzy==0.3.4
-pillow==11.3.0
+pillow==12.1.1
 platformdirs==4.3.7
 plotly==6.3.0
 prometheus-fastapi-instrumentator==7.1.0
