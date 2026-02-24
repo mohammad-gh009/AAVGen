@@ -48,7 +48,7 @@ fastapi-cli==0.0.7
 fastjsonschema==2.21.2
 fastparquet==2024.11.0
 fastrlock==0.8.3
-filelock==3.18.0
+filelock==3.20.3
 fonttools==4.59.0
 frozenlist==1.7.0
 fsspec==2025.3.0
