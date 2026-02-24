@@ -155,7 +155,7 @@ scikit-learn==1.8.0rc1
 scikit-posthocs==0.11.4
 scipy==1.16.3
 seaborn==0.13.2
-sentencepiece==0.2.0
+sentencepiece==0.2.1
 shellingham==1.5.4
 shtab==1.7.1
 six==1.17.0
