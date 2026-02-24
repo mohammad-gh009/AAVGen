@@ -248,12 +248,14 @@ All models were trained on a dedicated server equipped with:
 If you use AAVGen in your research, please cite:
 
 ```bibtex
-@article{AAVGen2025,
-  title   = {AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting},
-  author  = {Your Authors Here},
-  journal = {Your Journal Here},
-  year    = {2025},
-  doi     = {}
+@misc{ghaffarzadehesfahani2026aavgenprecisionengineeringadenoassociated,
+      title={AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting}, 
+      author={Mohammadreza Ghaffarzadeh-Esfahani and Yousof Gheisari},
+      year={2026},
+      eprint={2602.18915},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.QM},
+      url={https://arxiv.org/abs/2602.18915}, 
 }
 ```
 
