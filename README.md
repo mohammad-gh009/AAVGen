@@ -9,6 +9,9 @@
   </a>
   <a href="https://huggingface.co/datasets/Moreza009/AAV_datasets">
     <img src="https://img.shields.io/badge/🤗-HuggingFace-yellow.svg" alt="HuggingFace">
+  </a>  
+  <a href="https://arxiv.org/abs/2602.18915">
+    <img src="https://img.shields.io/badge/arXiv-2508.18579-b31b1b.svg" alt="arXive">
   </a>
 </p>
 
