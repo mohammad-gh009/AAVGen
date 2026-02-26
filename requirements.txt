@@ -123,7 +123,7 @@ prometheus-fastapi-instrumentator==7.1.0
 prometheus_client==0.21.1
 prompt_toolkit==3.0.50
 propcache==0.3.2
-protobuf==6.33.1
+protobuf==6.33.5
 psutil==7.0.0
 pure_eval==0.2.3
 py-cpuinfo==9.0.0
