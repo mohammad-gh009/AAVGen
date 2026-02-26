@@ -142,7 +142,7 @@ pytz==2025.2
 pywin32==310
 PyYAML==6.0.2
 pyzmq==26.4.0
-ray==2.43.0
+ray==2.54.0
 rdkit==2025.3.3
 referencing==0.36.2
 regex==2024.11.6
