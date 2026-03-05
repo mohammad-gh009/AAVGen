@@ -196,7 +196,7 @@ watchfiles==1.1.1
 wcwidth==0.2.13
 websockets==15.0.1
 wordcloud==1.9.5
-xgrammar==0.1.17
+xgrammar==0.1.32
 xgboost==3.0.2
 xxhash==3.5.0
 yarl==1.20.1
