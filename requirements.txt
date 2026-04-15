@@ -136,7 +136,7 @@ pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 python-json-logger==3.3.0
-python-multipart==0.0.20
+python-multipart==0.0.26
 python-slugify==8.0.4
 pytz==2025.2
 pywin32==310
