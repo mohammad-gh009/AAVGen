@@ -134,7 +134,7 @@ pydantic_core==2.33.1
 Pygments==2.19.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.0
+python-dotenv==1.2.2
 python-json-logger==3.3.0
 python-multipart==0.0.20
 python-slugify==8.0.4
