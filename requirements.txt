@@ -191,7 +191,7 @@ tzdata==2025.2
 urllib3==2.5.0
 uvicorn==0.34.0
 uvloop==0.21.0
-vllm==0.8.3
+vllm==0.20.0
 watchfiles==1.1.1
 wcwidth==0.2.13
 websockets==15.0.1
