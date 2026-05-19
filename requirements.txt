@@ -64,7 +64,7 @@ httptools==0.6.4
 httpx==0.28.1
 huggingface-hub==0.34.4
 hyperframe==6.1.0
-idna==3.10
+idna==3.15
 importlib_metadata==8.6.1
 inquirerpy==0.3.4
 interegular==0.3.3
